@@ -1,4 +1,4 @@
 # Python algorithm 1
-Algorithm practice by programmers
+Algorithm practice by Programmers
 
 Level 1 ~
